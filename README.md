@@ -7,9 +7,13 @@ This project involves a comprehensive data preprocessing and exploratory data an
 👥 Team Members
 
 Nishant  kumar 23scse1410215
+
 Gaurav anand 23scse1410183
+
 Harsh Yadav 23scse1410144
+
 Aryan Mishra 23scse1410130
+
 🎯 Objectives
 
 Clean and transform raw sales data into a structured format.
